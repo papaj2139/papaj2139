@@ -5,5 +5,10 @@ I am also involved in game development and have created some games using the Uni
 I specialized in c++ for like 4 months but lost interest after almost my every project had memory leaks.
 i also know alot of html and basics of some other lanuages but i will forget them if i wont write code using them :).
 
+Im working on:
+RENDERWARE REWRITEEN
+some games
+CITYSCAPE
+
 
  
