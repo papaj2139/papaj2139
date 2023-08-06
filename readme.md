@@ -11,4 +11,9 @@ some games
 CITYSCAPE
 
 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=papaj2139)](https://github.com/anuraghazra/github-readme-stats)
+
+
  
