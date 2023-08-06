@@ -14,8 +14,7 @@ CITYSCAPE
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=papaj2139)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=papaj2139)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=;papaj2139&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/papaj2139)
 
 
  
