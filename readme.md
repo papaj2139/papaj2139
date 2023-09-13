@@ -1,6 +1,9 @@
 I know: c#,python,CSS,HTML,JavaScript
+
 Learning: Go,lua
+
 im from Poland. Im 16
+
 im generally making games and apps and some programs to help others and me
 
 
