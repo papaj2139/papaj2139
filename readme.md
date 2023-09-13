@@ -1,10 +1,8 @@
-I know: c#,python,CSS,HTML,JavaScript
 
-Learning: Go,lua
 
-im from Poland. Im 16
+Hey there! 🖐️ I've got some coding skills under my belt likeC#, Python, CSS, HTML, and JavaScript. Right now, I'm diving into Go and Lua. 🚀 Oh, and I'm 16 and from Poland 🇵🇱.
 
-im generally making games and apps and some programs to help others and me
+Mostly, I'm into creating games, apps, and little tools that can help me and others out. 🎮💡 Let's code away! 💻🚁
 
 
 
