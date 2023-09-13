@@ -1,9 +1,6 @@
+Hey! 😄 I'm a 16-year-old from Poland 🇵🇱, and I'm all about coding. I've tinkered with C#, Python, CSS, HTML, and JavaScript, and I'm currently on a journey to master Go and Lua 🚀.
 
-
-Hey there! 🖐️ I've got some coding skills under my belt likeC#, Python, CSS, HTML, and JavaScript. Right now, I'm diving into Go and Lua. 🚀 Oh, and I'm 16 and from Poland 🇵🇱.
-
-Mostly, I'm into creating games, apps, and little tools that can help me and others out. 🎮💡 Let's code away! 💻🚁
-
+You'll usually find me busy creating cool stuff like games, apps, and handy programs that make life easier for both me and others.  Coding is my passion, and I'm always up for a coding adventure.
 
 
 
