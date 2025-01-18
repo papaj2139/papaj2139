@@ -1,13 +1,14 @@
 # Hi there! 👋
 
 and welcome.
+
 ## 🌟 About Me
 
-shit i make games,apps web anything 
+shit i make games,apps websites,frameworks anything 
 
 ## 🛠️ Tech Stack
 
-- **Languages**: C#, Python, JavaScript,C++,Lua.
+- **Languages**: C#, Python, JavaScript,C++,Lua,Rust.
 - **Tools & Platforms**: Git, GitHub, Visual Studio code, Blender (for simple modeling).
 
 ## 📌 Featured Projects
