@@ -23,7 +23,7 @@ to be completely honest im not proud of anything i made YET atleast.
 
 - **Discord**: lubieamongusaamongas
 
-=
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=papaj2139)](https://github.com/papaj2139/github-readme-stats)
 
@@ -33,7 +33,3 @@ to be completely honest im not proud of anything i made YET atleast.
 
 💡 _"I believe in creating worlds, not just games."_
 
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=papaj2139)](https://github.com/papaj2139/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=papaj2139)](https://github.com/papaj2139/github-readme-stats)
