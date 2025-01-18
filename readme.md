@@ -16,10 +16,10 @@ to be completely honest im not proud of anything i made YET atleast.
 
 ## 🌱 Currently Learning
 
-- C++
+- C++ (well improving)
 
 
-
+## Contact
 
 - **Discord**: lubieamongusaamongas
 
