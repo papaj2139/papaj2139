@@ -1,7 +1,5 @@
-Hey! 😄 I'm from Poland 🇵🇱, and I'm all about coding. I've tinkered with C#, Python, CSS, HTML, and JavaScript, and I'm currently on a journey to master Go and Lua 🚀.
-
-You'll usually find me busy creating cool stuff like games, apps, and handy programs that make life easier for both me and others.  Coding is my passion, and I'm always up for a coding adventure.
-
+Everything developer,
+i know alot tbh i dont even know what lol
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=papaj2139)](https://github.com/papaj2139/github-readme-stats)
