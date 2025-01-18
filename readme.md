@@ -23,7 +23,7 @@ to be completely honest im not proud of anything i made YET atleast.
 
 - **Discord**: lubieamongusaamongas
 
-
+## Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=papaj2139)](https://github.com/papaj2139/github-readme-stats)
 
