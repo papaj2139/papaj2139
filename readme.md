@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-and welcome.
+and welcome, Im natalie!
 
 ## 🌟 About Me
 
