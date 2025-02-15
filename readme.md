@@ -10,6 +10,7 @@ shit i make games,apps websites,frameworks anything
 
 - **Languages**: C#, Python, JavaScript,C,Lua,Rust.
 - **Tools & Platforms**: Git, GitHub, Visual Studio code, Blender (for simple modeling).
+- i use alpine btw
 
 ## 📌 Featured Projects
 
@@ -31,6 +32,3 @@ to be completely honest im not proud of anything i made YET atleast.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=papaj2139)](https://github.com/papaj2139/github-readme-stats)
 
 ---
-
-💡 _"I believe in creating worlds, not just games."_
-
