@@ -8,7 +8,7 @@ shit i make games,apps websites,frameworks anything
 
 ## 🛠️ Tech Stack
 
-- **Languages**: C#, Python, JavaScript,C++,Lua,Rust.
+- **Languages**: C#, Python, JavaScript,C,Lua,Rust.
 - **Tools & Platforms**: Git, GitHub, Visual Studio code, Blender (for simple modeling).
 
 ## 📌 Featured Projects
@@ -17,7 +17,7 @@ to be completely honest im not proud of anything i made YET atleast.
 
 ## 🌱 Currently Learning
 
-- C++ (well improving)
+- C (well improving)
 - Chromium (modyfying to be precise :> )
 
 ## Contact
