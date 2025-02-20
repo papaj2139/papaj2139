@@ -4,7 +4,7 @@ and welcome, Im natalie! and i use alpine btw!
 
 ## 🌟 About Me
 
-shit i make games,apps websites,frameworks anything 
+shit i make games,apps websites,frameworks anything (80% of my projects are private yeahhhhhhhhh i dont want people to see what kind of shit im making)
 
 trans and proud.
 
