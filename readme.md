@@ -6,6 +6,8 @@ and welcome, Im natalie!
 
 shit i make games,apps websites,frameworks anything 
 
+trans and proud.
+
 ## 🛠️ Tech Stack
 
 - **Languages**: C#, Python, JavaScript,C,Lua,Rust.
