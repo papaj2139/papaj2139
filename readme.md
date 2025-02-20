@@ -1,12 +1,14 @@
 # Hi there! 👋
 
-and welcome, Im natalie!
+and welcome, Im natalie! and i use alpine btw!
 
 ## 🌟 About Me
 
 shit i make games,apps websites,frameworks anything 
 
 trans and proud.
+
+alpine linux enthusiast (i use alpine btw)
 
 ## 🛠️ Tech Stack
 
