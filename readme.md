@@ -4,7 +4,7 @@ and welcome, Im natalie! and i use alpine btw!
 
 ## 🌟 About Me
 
-shit i make games,apps websites,frameworks anything (80% of my projects are private yeahhhhhhhhh i dont want people to see what kind of shit im making)
+shit i make games,apps websites,frameworks, OS'es (kinda) anything (80% of my projects are private yeahhhhhhhhh i dont want people to see what kind of shit im making)
 
 trans and proud.
 
@@ -12,7 +12,7 @@ alpine linux enthusiast (i use alpine btw)
 
 ## 🛠️ Tech Stack
 
-- **Languages**: C#, Python, JavaScript,C,Lua,Rust.
+- **Languages**: C#, Python, JavaScript,C,Lua,Rust, X86 Assembly
 - **Tools & Platforms**: Git, GitHub, Visual Studio code, Blender (for simple modeling).
 - **Distro** i use alpine btw (did i mention i use alpine btw?)
 
