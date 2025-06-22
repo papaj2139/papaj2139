@@ -22,7 +22,6 @@ to be completely honest im not proud of anything i made YET atleast.
 
 ## 🌱 Currently Learning
 
-- C (well improving)
 - Chromium (modyfying to be precise :> )
 
 ## Contact
