@@ -30,9 +30,7 @@ to be completely honest im not proud of anything i made YET atleast.
 
 ## Stats
 
-![Natalie's Stats](https://github-readme-stats.vercel.app/api?username=papaj2139&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=papaj2139&layout=compact&theme=dark)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Assembly](https://img.shields.io/badge/x86_Assembly-003778?style=flat-square)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=papaj2139&theme=dark)
 
