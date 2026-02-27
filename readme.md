@@ -30,9 +30,9 @@ to be completely honest im not proud of anything i made YET atleast.
 
 ## Stats
 
-![Natalie's Stats](https://github-readme-stats-8xxx786.vercel.app/api?username=papaj2139&show_icons=true&theme=tokyonight)
+![Natalie's Stats](https://nice-readme.vercel.app/api?username=papaj2139&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats-8xxx786.vercel.app/api/top-langs/?username=papaj2139&layout=compact&theme=tokyonight&langs_count=10)
+![Top Langs](https://nice-readme.vercel.app/api/top-langs?username=papaj2139&layout=compact&theme=tokyonight&langs_count=10)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=papaj2139&theme=dark)
 
