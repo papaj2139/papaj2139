@@ -30,8 +30,10 @@ to be completely honest im not proud of anything i made YET atleast.
 
 ## Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats-coral-three-13.vercel.app/api?username=papaj2139)](https://github.com/papaj2139/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats-coral-three-13.vercel.app/api/top-langs/?username=papaj2139)](https://github.com/papaj2139/github-readme-stats)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=papaj2139&show_icons=true&theme=tokyonight" alt="Natalie's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=papaj2139&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 
 ---
