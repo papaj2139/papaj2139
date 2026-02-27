@@ -30,10 +30,10 @@ to be completely honest im not proud of anything i made YET atleast.
 
 ## Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=papaj2139&show_icons=true&theme=tokyonight" alt="Natalie's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=papaj2139&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+![Natalie's Stats](https://github-readme-stats.vercel.app/api?username=papaj2139&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=papaj2139&layout=compact&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=papaj2139&theme=dark)
 
 ---
