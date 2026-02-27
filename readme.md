@@ -25,6 +25,7 @@ to be completely honest im not proud of anything i made YET atleast.
 ## Contact
 
 - **Discord**: lubieamongusaamongas
+
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Profile-ffd21e?style=for-the-badge)](https://huggingface.co/frisk2137)
 
 ## Stats
